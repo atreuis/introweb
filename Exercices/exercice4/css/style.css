@@ -15,19 +15,19 @@ nav{
 }
 
 #section1{
-	border: 1px solid blue;
+
 	float:left;
 	padding:10px;
 	width:40%;
 }
 
 #section2{
-	border: 1px solid blue;
+
 	padding-top:12px;
 
 }
 footer{
-	border: 1px solid blue;
+
 	font-style:italic;
 	padding:25px;
 }
