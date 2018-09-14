@@ -2,19 +2,29 @@
 	margin:0 auto; /* permet de centrer la page*/
 	width: 55%;  
 }
-
+header{
+	text-align: center;
+}
 
 nav
 {
+	vertical-align:top;
+	display:inline-block;
 	width : 150px ;
 	border : 1px solid blue ;
+
 }
 section
 {
+	margin-left:100px;
+	display:inline-block;
+	text-align:center;
 	border : 1px solid blue ;
 	width: 55%;
 }
-
+footer{
+	text-align:center;
+}
 
 
 
